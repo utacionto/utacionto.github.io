@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://utacionto.github.io/sitemap.html.gz
+Sitemap: https://utacionto.github.io/app/sitemap.html.gz
+Sitemap: https://utacionto.github.io/assets/sitemap.html.gz
+Sitemap: https://utacionto.github.io/css/sitemap.html.gz
+Sitemap: https://utacionto.github.io/includes/sitemap.html.gz
+Sitemap: https://utacionto.github.io/item/sitemap.html.gz
+Sitemap: https://utacionto.github.io/src/sitemap.html.gz
